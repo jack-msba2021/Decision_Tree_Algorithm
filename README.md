@@ -35,6 +35,8 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 ```
+### Data
+Make sure to download the data file and upload it to the Google Colab project files.
 
 ## Project Files
 Access the Decision Tree project [here](https://drive.google.com/file/d/1nm-2xGiR_4Lxb8OBK1xLnQ1mcJlFeS3V/view?usp=sharing).
