@@ -1,6 +1,6 @@
 # Decision Tree Algorithm
-![Given a data of attributes together with its classes, a decision tree produces a sequence of rules that can be used to classify the data.
-](https://developers.bloomreach.com/binaries/original/content/gallery/developer/blog/decision-tree.jpg)
+ ![Given a data of attributes together with its classes, a decision tree produces a sequence of rules that can be used to classify the data.
+ ](https://developers.bloomreach.com/binaries/original/content/gallery/developer/blog/decision-tree.jpg)
 
 Given a data of attributes together with its classes, a decision tree produces a sequence of rules that can be used to classify the data.
 ## Project Description
