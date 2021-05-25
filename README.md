@@ -1,6 +1,7 @@
 # Decision Tree Algorithm
 ![Given a data of attributes together with its classes, a decision tree produces a sequence of rules that can be used to classify the data.
 ](https://developers.bloomreach.com/binaries/original/content/gallery/developer/blog/decision-tree.jpg)
+
 Given a data of attributes together with its classes, a decision tree produces a sequence of rules that can be used to classify the data.
 ## Project Description
 This project practices using the DecisionTreeClassifier algorithm from scikit learn to predict the income class of an individual. The dataset for this project comes from the US Census Bureau and represents salaries of people along with seven demographic variables. The target class is binary (>50K or <=50K) and our variables have been discretized into categories.
